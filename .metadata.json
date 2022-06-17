@@ -1,0 +1,18 @@
+[
+  {
+    "package": "dash",
+    "oncran": true
+  },
+  {
+    "package": "dashPivottable",
+    "oncran": true
+  },
+  {
+    "package": "plotly",
+    "oncran": true
+  },
+  {
+    "package": "rasterly",
+    "oncran": true
+  }
+]

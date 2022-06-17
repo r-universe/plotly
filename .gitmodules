@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dash"]
+	path = dash
+	url = https://github.com/plotly/dashr
+	shallow = true
+	registered = true
+[submodule "dashPivottable"]
+	path = dashPivottable
+	url = https://github.com/plotly/dash-pivottable
+	shallow = true
+	registered = true
+[submodule "plotly"]
+	path = plotly
+	url = https://github.com/plotly/plotly.r
+	shallow = true
+	registered = true
+[submodule "rasterly"]
+	path = rasterly
+	url = https://github.com/plotly/rasterly
+	shallow = true
+	registered = true
