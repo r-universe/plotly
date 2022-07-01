@@ -1,9 +1,5 @@
 [
   {
-    "package": "dash",
-    "oncran": true
-  },
-  {
     "package": "dashPivottable",
     "oncran": true
   },
