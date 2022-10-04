@@ -13,8 +13,3 @@
 	url = https://github.com/plotly/plotly.r
 	shallow = true
 	registered = true
-[submodule "rasterly"]
-	path = rasterly
-	url = https://github.com/plotly/rasterly
-	shallow = true
-	registered = true

@@ -6,9 +6,5 @@
   {
     "package": "plotly",
     "oncran": true
-  },
-  {
-    "package": "rasterly",
-    "oncran": true
   }
 ]
