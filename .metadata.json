@@ -1,10 +1,10 @@
 [
   {
-    "package": "plotly",
+    "package": "dashPivottable",
     "oncran": true
   },
   {
-    "package": "dashPivottable",
+    "package": "plotly",
     "oncran": true
   }
 ]
