@@ -13,8 +13,3 @@
 	url = https://github.com/plotly/plotly.r
 	shallow = true
 	registered = true
-[submodule "ggplot2"]
-	path = ggplot2
-	url = https://github.com/tidyverse/ggplot2
-	shallow = true
-	registered = false
